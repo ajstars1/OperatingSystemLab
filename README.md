@@ -2,7 +2,6 @@
 lab work of Operating System 
 ## Experiments
 - [Experimet-1][exp1]
-- [Experimet-1][exp1]
 - [Experimet-2][exp2]
 - [Experimet-3][exp3]
 - [Experimet-4][exp4]
